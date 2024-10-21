@@ -1,0 +1,2 @@
+      Using the QI on $C$ and on the dp state for the indices $z+1 \leq y+1 \leq c \leq d$ (from the induction hypothesis) yields the desired result.
+            Using the QI on $C$ and on the dp state for the indices $a \leq b \leq z \leq y$ (from the induction hypothesis) yields the desired result.
